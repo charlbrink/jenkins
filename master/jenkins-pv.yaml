@@ -11,4 +11,4 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/Users/kasunranasinghe/Development/Docker/data"
+    path: "/Users/charlbrink/dev/personal/jenkins/data"
